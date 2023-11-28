@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:-apple-system, BlinkMacSystemFont, sans-serif;
+}
+body{
+    background-image: url(../imgs/tech.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main {
+    max-width: 1700px; 
+    margin: 0 auto; 
+    padding: 20px; 
+
+}
+.navbar{
+    height: 75px;
+}
+.navbar-nav .nav-link{
+    font-size: 20px;
+}
+.voltar  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
